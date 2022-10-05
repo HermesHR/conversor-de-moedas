@@ -28,9 +28,10 @@ body {
   width: 200px;
 }
 
-.alura-logo {
+.logo {
   width: 40px;
   position: absolute;
+  max-width: 50%;
   top: 10px;
   right: 10px;
 }
